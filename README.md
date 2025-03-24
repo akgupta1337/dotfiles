@@ -24,5 +24,5 @@ systemctl --user enable pipewire pipewire-pulse wireplumber
 systemctl --user start pipewire pipewire-pulse wireplumber
 
 sudo systemctl enable warp-svc
-
+killall -SIGUSR2 waybar
 
