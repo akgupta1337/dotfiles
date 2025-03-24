@@ -95,7 +95,7 @@
         "on-click-right": "killall rofi",
     },
     "clock": {
-        "format": "  {:%A - %B %d, %Y - %R}",
+        "format": "  {:%A - %B %d, %Y - %I:%M %p}",
         "tooltip": false,
     },
     "hyprland/workspaces": {
