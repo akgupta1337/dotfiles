@@ -4,7 +4,7 @@
 
 ### Essential Packages:
 ```bash
-sudo pacman -S rofi dolhpin hyprshade firefox   alacritty waybar  nvidia nvidia-utils brightnessctl pipewire wireplumber pipewire-pulse pipewire-alsa pipewire-jack kservice5 archlinux-xdg-menu neofetch fastfetch unzip man bash-completion wl-clipboard bluez bluez-utils blueman blueman-manager zsh
+sudo pacman -S rofi dolhpin hyprshade firefox alacritty waybar nvidia nvidia-utils brightnessctl pipewire wireplumber pipewire-pulse pipewire-alsa pipewire-jack kservice5 archlinux-xdg-menu neofetch fastfetch unzip man bash-completion wl-clipboard bluez bluez-utils blueman blueman-manager zsh
 ```
 ```bash
 sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
