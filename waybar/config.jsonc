@@ -2,7 +2,7 @@
 	"layer": "top",
 	"modules-left": ["custom/launcher","cpu","memory","disk","hyprland/workspaces"],
 	"modules-center": ["clock"],
-	"modules-right": ["bluetooth","tray", "privacy","hyprland/language","battery","network","pulseaudio","custom/power"],
+	"modules-right": ["bluetooth","tray", "privacy","battery","network","pulseaudio","custom/power"],
 
 
   "battery": {
